@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Gong Xi Fatt Chai
 Use the left arrow to go back!
